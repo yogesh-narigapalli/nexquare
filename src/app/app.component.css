@@ -1,0 +1,35 @@
+#button{
+    float: right;
+    margin-top: -10px;
+}
+
+.firstCard{
+    margin-top: 40px;
+}
+h4{
+    margin-left: 40px;
+}
+.cardElements{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.secondCard{
+    margin-top: 20px;
+    height: 300px;
+}
+
+.innerEntries{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 25px;
+    
+}
+
+.individual{
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
